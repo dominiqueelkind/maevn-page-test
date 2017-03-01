@@ -1,0 +1,50 @@
+/*
+ * Start Bootstrap - Business Frontpage (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    padding-top: 0; font-family: "Lato", Helvetica, Arial, "sans-serif"; background-image: linear-gradient(45deg, rgba(255,138,0,0.00) 0%, rgba(255,138,0,0.30) 100%); color: #121B8B; background: #FFD700 url("../assets/scrubs.jpg") no-repeat right bottom;  /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+/* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
+
+.business-header {
+    height: auto;
+	background-color: #121B8B;
+	padding: 60px;
+	text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+	border-bottom: 15px solid #00B7E5;
+}
+
+.center { text-align: center; }
+/* Customize the text color and shadow color and to optimize text legibility. */
+
+.tagline {
+    color: #00B7E5;
+	margin-bottom: -.25em;
+}
+
+.sub-tagline {
+    color: #fff;
+	font-size: 1.5em;
+	margin-bottom: 1em;
+}
+
+.how-to { font-size: 2em; color: #121B8B; letter-spacing: 1px; text-align: center; padding-bottom: 1.5em; padding-top: 1.5em; }
+
+.btn { background-color: #FF8A00; color: #fff; border: 0; font-size: 1.5em; }
+.btn:hover { background-color: #F6A623; color: #fff; opacity: 0.9;  }
+
+.img-center {
+    margin: 0 auto;
+}
+
+footer {
+    margin: 50px 0;
+}
